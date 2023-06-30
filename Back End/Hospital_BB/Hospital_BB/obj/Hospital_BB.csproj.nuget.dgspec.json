@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\piriy\\OneDrive\\Desktop\\Hospital Management System\\Back End\\Hospital_BB\\Hospital_BB\\Hospital_BB.csproj": {}
+    "C:\\Users\\piriy\\Source\\Repos\\Hospital-Management-System\\Back End\\Hospital_BB\\Hospital_BB\\Hospital_BB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\piriy\\OneDrive\\Desktop\\Hospital Management System\\Back End\\Hospital_BB\\Hospital_BB\\Hospital_BB.csproj": {
+    "C:\\Users\\piriy\\Source\\Repos\\Hospital-Management-System\\Back End\\Hospital_BB\\Hospital_BB\\Hospital_BB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\piriy\\OneDrive\\Desktop\\Hospital Management System\\Back End\\Hospital_BB\\Hospital_BB\\Hospital_BB.csproj",
+        "projectUniqueName": "C:\\Users\\piriy\\Source\\Repos\\Hospital-Management-System\\Back End\\Hospital_BB\\Hospital_BB\\Hospital_BB.csproj",
         "projectName": "Hospital_BB",
-        "projectPath": "C:\\Users\\piriy\\OneDrive\\Desktop\\Hospital Management System\\Back End\\Hospital_BB\\Hospital_BB\\Hospital_BB.csproj",
+        "projectPath": "C:\\Users\\piriy\\Source\\Repos\\Hospital-Management-System\\Back End\\Hospital_BB\\Hospital_BB\\Hospital_BB.csproj",
         "packagesPath": "C:\\Users\\piriy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\piriy\\OneDrive\\Desktop\\Hospital Management System\\Back End\\Hospital_BB\\Hospital_BB\\obj\\",
+        "outputPath": "C:\\Users\\piriy\\Source\\Repos\\Hospital-Management-System\\Back End\\Hospital_BB\\Hospital_BB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\piriy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,14 +40,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "target": "Package",
-              "version": "[7.0.8, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
